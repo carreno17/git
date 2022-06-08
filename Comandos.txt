@@ -1,0 +1,13 @@
+git reset --soft (id del commit) para borrar un commit
+Para ir a una versión anterior de tu programa es git checkout (id del commit)
+git reset --hard (Commit a eligir) me borra todos los commit y solo me deja el que yo eliji
+git branch (nombre de la rama a borrar ) -d #Esto es para borrar una rama
+
+
+EN GITHUB
+
+El fork se usa para toca una copia de un repositorio de otra persona en github
+EL ISSUS es una plantilla para que los miembros del equipo puedan reportar cualquier bug de los repositorios, proyectos
+Pull request es para subir nuestros cambios en el repositorio principal de la empresa y, lo  subimos a la plantilla(issus)
+que halla creado la empresa o jefe del proyecto. El jefe observa lo que hicimos, revisa y decide si lo agrega a la nueva
+rama o no
